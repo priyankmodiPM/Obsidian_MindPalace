@@ -34,9 +34,22 @@
               "icon": "lucide-file",
               "title": "Sample"
             }
+          },
+          {
+            "id": "0a0a2d8c1c98fc5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Sync Ways.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian Sync Ways"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sample.md",
+                "file": "Welcome test change.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sample"
+              "title": "Backlinks for Welcome test change"
             }
           },
           {
@@ -128,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sample.md",
+                "file": "Welcome test change.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sample"
+              "title": "Outgoing links from Welcome test change"
             }
           },
           {
@@ -171,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sample.md",
+                "file": "Welcome test change.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sample"
+              "title": "Outline of Welcome test change"
             }
           },
           {
@@ -209,9 +222,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "00aec4b5b7dcef19",
+  "active": "b717af99797790ac",
   "lastOpenFiles": [
-    "Welcome test change.md",
-    "Sample.md"
+    "Obsidian Sync Ways.md",
+    "Sample.md",
+    "Welcome test change.md"
   ]
 }
