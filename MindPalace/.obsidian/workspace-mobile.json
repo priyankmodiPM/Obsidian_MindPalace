@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome test change.md",
+                "file": "Sample.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome test change"
+              "title": "Sample"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Welcome test change.md",
+            "file": "Sample.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Welcome test change.md",
+            "file": "Sample.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Welcome test change.md",
+            "file": "Sample.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -170,5 +170,8 @@
     }
   },
   "active": "c08f5a9561966736",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Welcome test change.md",
+    "Sample.md"
+  ]
 }
