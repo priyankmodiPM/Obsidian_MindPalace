@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MindPalace/Welcome test change.md",
+                "file": "MindPalace/Obsidian Sync Ways.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome test change"
+              "title": "Obsidian Sync Ways"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "ad5fddaa3d6d5d07",
   "lastOpenFiles": [
+    "MindPalace/Welcome test change.md",
     "README.md"
   ]
 }
