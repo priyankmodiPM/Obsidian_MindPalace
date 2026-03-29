@@ -11,17 +11,41 @@
             "id": "ad5fddaa3d6d5d07",
             "type": "leaf",
             "state": {
+              "type": "bases",
+              "state": {
+                "file": "Media DB/My Books Base.base",
+                "viewName": "Read"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "My Books Base"
+            }
+          },
+          {
+            "id": "3eb09c218ea95622",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "MindPalace/Obsidian Sync Ways.md",
+                "file": "+/🚀Launchpad.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Obsidian Sync Ways"
+              "title": "🚀Launchpad"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,8 +119,8 @@
         "state": {
           "type": "bookmarks",
           "state": {},
-          "icon": "lucide-bookmark",
-          "title": "Bookmarks"
+          "icon": "lucide-ghost",
+          "title": "bookmarks"
         }
       }
     ],
@@ -153,23 +177,46 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "5c597fe6e826623c",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
       }
     ],
     "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "periodic-notes:Open today's daily note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-media-db-plugin:Add new Media DB entry": false,
+      "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "ad5fddaa3d6d5d07",
+  "active": "3eb09c218ea95622",
   "lastOpenFiles": [
+    "Media DB/My Books Base.base",
+    "Media DB/📚Books/White Nights - Fyodor Dostoevsky.md",
+    "MindPalace/Obsidian Sync Ways.md",
     "MindPalace/Welcome test change.md",
     "README.md"
   ]
