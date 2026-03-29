@@ -43,7 +43,7 @@
 8. [ ] Deepak's font space problem fix [Sign in to Adobe | Slack](https://cq-dev.slack.com/archives/C062V0UE155/p1774514019177659)
 9. [ ] Create Jira for Deepa
 10. [ ] Env allowlist
-11. [ ] Referrals
+11. [ ] REFERRALS
 
 
 ## 0.2 Personal
