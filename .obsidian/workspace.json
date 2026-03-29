@@ -1,0 +1,839 @@
+{
+  "main": {
+    "id": "c4f7fdb608baf8e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "82175cf3ac71e82b",
+        "type": "tabs",
+        "dimension": 47.21871049304678,
+        "children": [
+          {
+            "id": "a9f49185b6ef7001",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Razorblade Tears - S A Cosby",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Media DB/📚Books/Razorblade Tears - S A Cosby.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Razorblade Tears - S A Cosby\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}}}"
+                },
+                {
+                  "title": "My Books Base",
+                  "icon": "lucide-layout-grid",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"Media DB/My Books Base.base\",\"viewName\":\"TBR\"},\"icon\":\"lucide-layout-grid\",\"title\":\"My Books Base\"}",
+                  "eState": "{\"views\":{\"Read\":{\"scroll\":{\"top\":0}},\"TBR\":{\"scroll\":{\"top\":0}}}}"
+                },
+                {
+                  "title": "Razorblade Tears - S A Cosby",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Media DB/📚Books/Razorblade Tears - S A Cosby.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Razorblade Tears - S A Cosby\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}}}"
+                },
+                {
+                  "title": "My Books Base",
+                  "icon": "lucide-layout-grid",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"Media DB/My Books Base.base\",\"viewName\":\"TBR\"},\"icon\":\"lucide-layout-grid\",\"title\":\"My Books Base\"}",
+                  "eState": "{\"views\":{\"Read\":{\"scroll\":{\"top\":0}},\"TBR\":{\"scroll\":{\"top\":0}}}}"
+                },
+                {
+                  "title": "Razorblade Tears - S A Cosby",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Media DB/📚Books/Razorblade Tears - S A Cosby.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Razorblade Tears - S A Cosby\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}}}"
+                },
+                {
+                  "title": "My Books Base",
+                  "icon": "lucide-layout-grid",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"Media DB/My Books Base.base\",\"viewName\":\"TBR\"},\"icon\":\"lucide-layout-grid\",\"title\":\"My Books\"}",
+                  "eState": "{\"views\":{\"Read\":{\"scroll\":{\"top\":0}},\"TBR\":{\"scroll\":{\"top\":0}}}}"
+                },
+                {
+                  "title": "BookSearch Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"x/Templates/BookSearch Template.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"BookSearch Template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":10},\"to\":{\"line\":15,\"ch\":10}}}"
+                },
+                {
+                  "title": "Razorblade Tears - S A Cosby",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Media DB/📚Books/Razorblade Tears - S A Cosby.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Razorblade Tears - S A Cosby\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
+                },
+                {
+                  "title": "My Books Base",
+                  "icon": "lucide-layout-grid",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"Media DB/My Books Base.base\",\"viewName\":\"TBR\"},\"icon\":\"lucide-layout-grid\",\"title\":\"My Books\"}",
+                  "eState": "{\"views\":{\"Read\":{\"scroll\":{\"top\":0}},\"TBR\":{\"scroll\":{\"top\":0}}}}"
+                },
+                {
+                  "title": "Razorblade Tears - S A Cosby",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Media DB/📚Books/Razorblade Tears - S A Cosby.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Razorblade Tears - S A Cosby\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
+                },
+                {
+                  "title": "My Books Base",
+                  "icon": "lucide-layout-grid",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"Media DB/My Books Base.base\",\"viewName\":\"TBR\"},\"icon\":\"lucide-layout-grid\",\"title\":\"My Books\"}",
+                  "eState": "{\"views\":{\"Read\":{\"scroll\":{\"top\":0}},\"TBR\":{\"scroll\":{\"top\":0}}}}"
+                },
+                {
+                  "title": "Razorblade Tears - S A Cosby",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Media DB/📚Books/Razorblade Tears - S A Cosby.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Razorblade Tears - S A Cosby\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":10},\"to\":{\"line\":15,\"ch\":10}},\"scroll\":0}"
+                },
+                {
+                  "title": "My Books Base",
+                  "icon": "lucide-layout-grid",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"Media DB/My Books Base.base\",\"viewName\":\"Read\"},\"icon\":\"lucide-layout-grid\",\"title\":\"My Books\"}",
+                  "eState": "{\"views\":{\"Read\":{\"scroll\":{\"top\":0}},\"TBR\":{\"scroll\":{\"top\":0}},\"In Progress\":{\"scroll\":{\"top\":0}}}}"
+                },
+                {
+                  "title": "Razorblade Tears - S A Cosby",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Media DB/📚Books/Razorblade Tears - S A Cosby.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Razorblade Tears - S A Cosby\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":10},\"to\":{\"line\":19,\"ch\":10}}}"
+                },
+                {
+                  "title": "BookSearch Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"x/Templates/BookSearch Template.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"BookSearch Template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":10},\"to\":{\"line\":15,\"ch\":10}},\"scroll\":0}"
+                },
+                {
+                  "title": "White Nights - Fyodor Dostoevsky",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Media DB/📚Books/White Nights - Fyodor Dostoevsky.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"White Nights - Fyodor Dostoevsky\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":10},\"to\":{\"line\":21,\"ch\":10}},\"scroll\":0}"
+                },
+                {
+                  "title": "My Books Base",
+                  "icon": "lucide-layout-grid",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"Media DB/My Books Base.base\",\"viewName\":\"Read\"},\"icon\":\"lucide-layout-grid\",\"title\":\"My Books\"}",
+                  "eState": "{\"views\":{\"Read\":{\"scroll\":{\"top\":0}},\"TBR\":{\"scroll\":{\"top\":0}},\"In Progress\":{\"scroll\":{\"top\":0}}}}"
+                },
+                {
+                  "title": "Yellowface - Rebecca F Kuang",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Media DB/📚Books/Yellowface - Rebecca F Kuang.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Yellowface - Rebecca F Kuang\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "My Books Base",
+                  "icon": "lucide-layout-grid",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"Media DB/My Books Base.base\",\"viewName\":\"Read\"},\"icon\":\"lucide-layout-grid\",\"title\":\"Books I read\"}",
+                  "eState": "{\"views\":{\"All Read\":{\"scroll\":{\"top\":0}},\"Read\":{\"scroll\":{\"top\":0}},\"In Progress\":{\"scroll\":{\"top\":0}},\"TBR\":{\"scroll\":{\"top\":0}}}}"
+                },
+                {
+                  "title": "The Yellow Wall Paper - Charlotte Perkins Gilman",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Media DB/📚Books/The Yellow Wall Paper - Charlotte Perkins Gilman.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"The Yellow Wall Paper - Charlotte Perkins Gilman\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}}}"
+                },
+                {
+                  "title": "Maus - Art Spiegelman",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Media DB/📚Books/Maus - Art Spiegelman.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Maus - Art Spiegelman\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}}}"
+                },
+                {
+                  "title": "My Books Base",
+                  "icon": "lucide-layout-grid",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"Media DB/My Books Base.base\",\"viewName\":\"In Progress\"},\"icon\":\"lucide-layout-grid\",\"title\":\"Books I read\"}",
+                  "eState": "{\"views\":{\"Date Sorted read\":{\"scroll\":{\"top\":0}},\"All Read\":{\"scroll\":{\"top\":0}},\"In Progress\":{\"scroll\":{\"top\":0}}}}"
+                },
+                {
+                  "title": "White Nights - Fyodor Dostoevsky",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Media DB/📚Books/White Nights - Fyodor Dostoevsky.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"White Nights - Fyodor Dostoevsky\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}}}"
+                },
+                {
+                  "title": "Steelheart - Brandon Sanderson",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Media DB/📚Books/Steelheart - Brandon Sanderson.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Steelheart - Brandon Sanderson\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}}}"
+                },
+                {
+                  "title": "Steal Like An Artist - Austin Kleon",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Media DB/📚Books/Steal Like An Artist - Austin Kleon.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Steal Like An Artist - Austin Kleon\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}}}"
+                },
+                {
+                  "title": "Piranesi - Susanna Clarke",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Media DB/📚Books/Piranesi - Susanna Clarke.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Piranesi - Susanna Clarke\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}}}"
+                },
+                {
+                  "title": "Everything Is Tuberculosis - John Green",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Media DB/📚Books/Everything Is Tuberculosis - John Green.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Everything Is Tuberculosis - John Green\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}}}"
+                },
+                {
+                  "title": "Careless People A story of where I used to work - Sarah Wynn-Williams",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Media DB/📚Books/Careless People A story of where I used to work - Sarah Wynn-Williams.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Careless People A story of where I used to work - Sarah Wynn-Williams\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}}}"
+                },
+                {
+                  "title": "Atomic Habits - James Clear",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Media DB/📚Books/Atomic Habits - James Clear.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Atomic Habits - James Clear\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}}}"
+                },
+                {
+                  "title": "A Thousand Splendid Suns - Khaled Hosseini",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Media DB/📚Books/A Thousand Splendid Suns - Khaled Hosseini.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"A Thousand Splendid Suns - Khaled Hosseini\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}}}"
+                },
+                {
+                  "title": "A Psalm for the Wild-Built - Becky Chambers",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Media DB/📚Books/A Psalm for the Wild-Built - Becky Chambers.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"A Psalm for the Wild-Built - Becky Chambers\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}}}"
+                },
+                {
+                  "title": "1984 - George Orwell",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Media DB/📚Books/1984 - George Orwell.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"1984 - George Orwell\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}}}"
+                },
+                {
+                  "title": "My Books Base",
+                  "icon": "lucide-layout-grid",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"Media DB/My Books Base.base\",\"viewName\":\"All Read\"},\"icon\":\"lucide-layout-grid\",\"title\":\"Books I read\"}",
+                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0}},\"Sorted Cards\":{\"scroll\":{\"top\":0}},\"All Cards\":{\"scroll\":{\"top\":0}},\"All Read\":{\"scroll\":{\"top\":0}},\"Date Sorted read\":{\"scroll\":{\"top\":0}},\"TBR\":{\"scroll\":{\"top\":0}}}}"
+                },
+                {
+                  "title": "🛍️ Shopping List",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Dots/Curated Lists/🛍️ Shopping List.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"🛍️ Shopping List\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Auto-Reflow Pipeline Digthrough",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Dots/Work-Adobe/Auto-Reflow Pipeline Digthrough.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Auto-Reflow Pipeline Digthrough\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":86},\"to\":{\"line\":14,\"ch\":86}}}"
+                },
+                {
+                  "title": "Auto-Reflow MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Dots/Work-Adobe/Auto-Reflow MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Auto-Reflow MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}},\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Media DB/My Books Base.base",
+                "viewName": "Read"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "My Books Base"
+            }
+          },
+          {
+            "id": "63d8f06540a36e22",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atlas/Dots/Work-Adobe/AEM AI Assistant.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "AEM AI Assistant"
+            }
+          }
+        ],
+        "stacked": true
+      },
+      {
+        "id": "5533bf52dcf0b9b4",
+        "type": "tabs",
+        "dimension": 52.78128950695322,
+        "children": [
+          {
+            "id": "630d40f3ed8e572e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 25,
+              "stack": [
+                {
+                  "title": "Meta-Skills for Flowcreation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Dots/Things/Meta-Skills for Flowcreation.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Meta-Skills for Flowcreation\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "PKM Planet 1 - What is PKM",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Dots/Things/PKM Planet 1 - What is PKM.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"PKM Planet 1 - What is PKM\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "New tab",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"empty\",\"state\":{},\"icon\":\"lucide-file\",\"title\":\"New tab\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "New tab",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"empty\",\"state\":{},\"icon\":\"lucide-file\",\"title\":\"New tab\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Plato's Cave",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Dots/Things/Plato's Cave.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Plato's Cave\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                },
+                {
+                  "title": "New tab",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"empty\",\"state\":{},\"icon\":\"lucide-file\",\"title\":\"New tab\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "The Riddle of Two Paths (kit)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Dots/Things/The Riddle of Two Paths (kit).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"The Riddle of Two Paths (kit)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "New tab",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"empty\",\"state\":{},\"icon\":\"lucide-file\",\"title\":\"New tab\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "New tab",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"empty\",\"state\":{},\"icon\":\"lucide-file\",\"title\":\"New tab\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "New tab",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"empty\",\"state\":{},\"icon\":\"lucide-file\",\"title\":\"New tab\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "New tab",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"empty\",\"state\":{},\"icon\":\"lucide-file\",\"title\":\"New tab\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Four Factors of Flow",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Dots/Things/Four Factors of Flow.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Four Factors of Flow\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":20.953125}"
+                },
+                {
+                  "title": "New tab",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"empty\",\"state\":{},\"icon\":\"lucide-file\",\"title\":\"New tab\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "New tab",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"empty\",\"state\":{},\"icon\":\"lucide-file\",\"title\":\"New tab\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "New tab",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"empty\",\"state\":{},\"icon\":\"lucide-file\",\"title\":\"New tab\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "New tab",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"empty\",\"state\":{},\"icon\":\"lucide-file\",\"title\":\"New tab\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "New tab",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"empty\",\"state\":{},\"icon\":\"lucide-file\",\"title\":\"New tab\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "New tab",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"empty\",\"state\":{},\"icon\":\"lucide-file\",\"title\":\"New tab\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "The Riddle of Two Paths (kit)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Dots/Things/The Riddle of Two Paths (kit).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"The Riddle of Two Paths (kit)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Bottom-up thinking",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Dots/Things/Bottom-up thinking.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Bottom-up thinking\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "New tab",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"empty\",\"state\":{},\"icon\":\"lucide-file\",\"title\":\"New tab\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "New tab",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"empty\",\"state\":{},\"icon\":\"lucide-file\",\"title\":\"New tab\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "New tab",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"empty\",\"state\":{},\"icon\":\"lucide-file\",\"title\":\"New tab\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Bottom-up thinking",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Dots/Things/Bottom-up thinking.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Bottom-up thinking\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "New tab",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"empty\",\"state\":{},\"icon\":\"lucide-file\",\"title\":\"New tab\"}",
+                  "eState": "{}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+/Summit-template flow.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Summit-template flow"
+            }
+          },
+          {
+            "id": "0c2b8dc0ea9eee80",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+/🚀Launchpad.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "🚀Launchpad"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "440b3841429709ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "b208c03cadd231ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dddbab8b18fd423a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "77966b04a7f238ed",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "stage ace",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 293
+  },
+  "right": {
+    "id": "7a43a6c530e72e44",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea89fdbc5439f479",
+        "type": "tabs",
+        "dimension": 62.64916467780429,
+        "children": [
+          {
+            "id": "2ca57d6199b2f8d5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "+/EAA - Add dimensional and filesize filters.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for EAA - Add dimensional and filesize filters"
+            }
+          },
+          {
+            "id": "1dc0cb1cebc39098",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "4f6e4ddebde66a86",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "90d026528dc7103b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "+/EAA - Add dimensional and filesize filters.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of EAA - Add dimensional and filesize filters"
+            }
+          },
+          {
+            "id": "ecdb0a392a024342",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "8e15cd93a6a4be64",
+        "type": "tabs",
+        "dimension": 37.3508353221957,
+        "children": [
+          {
+            "id": "d535bd36dbc98e0b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "+/Auto-Reflow Flex Service Details.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Auto-Reflow Flex Service Details"
+            }
+          },
+          {
+            "id": "ae0aed29d208c352",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "bases:Create new base": false,
+      "daily-notes:Open today's daily note": false,
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "workspaces:Manage workspace layouts": false,
+      "periodic-notes:Open today's daily note": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-media-db-plugin:Add new Media DB entry": false,
+      "booksidian-plugin:Booksidian Sync": false,
+      "obsidian-book-search-plugin:Create new book note": false
+    }
+  },
+  "active": "0c2b8dc0ea9eee80",
+  "lastOpenFiles": [
+    "Media DB/📚Books/Steelheart - Brandon Sanderson.md",
+    "+/🚀Launchpad.md",
+    "Media DB/📚Books/Steal Like An Artist - Austin Kleon.md",
+    "Media DB/📚Books/Everything Is Tuberculosis - John Green.md",
+    "Media DB/My Books Base.base",
+    "Atlas/Dots/Work-Adobe/AEM AI Assistant.md",
+    "Media DB/📚Books/A Psalm for the Wild-Built - Becky Chambers.md",
+    "+/Summit-template flow.md",
+    "Atlas/Dots/Work-Adobe/AEM Assistant -Tasks.md",
+    "Media DB/📚Books/Razorblade Tears - S A Cosby.md",
+    "x/Templates/BookSearch Template.md",
+    "Calendar/2025-01-16.md",
+    "Media DB/📚Books/White Nights - Fyodor Dostoevsky.md",
+    "x/Templates/Books.md",
+    "+/Books - Book Search.md",
+    "Media DB/📚Books/1984 - George Orwell.md",
+    "Media DB/📚Books/Yellowface - Rebecca F Kuang.md",
+    "Media DB/📚Books/The Yellow Wall Paper - Charlotte Perkins Gilman.md",
+    "Media DB/📚Books/Maus - Art Spiegelman.md",
+    "Media DB/📚Books/Piranesi - Susanna Clarke.md",
+    "Media DB/📚Books/Careless People A story of where I used to work - Sarah Wynn-Williams.md",
+    "Media DB/📚Books/Atomic Habits - James Clear.md",
+    "Media DB/📚Books/A Thousand Splendid Suns - Khaled Hosseini.md",
+    "Atlas/Dots/Curated Lists/🛍️ Shopping List.md",
+    "Atlas/Dots/Curated Lists/Words i want to use everyday.md",
+    "Media DB/📚Books/Steal like an artist.md",
+    "Atlas/Utilities/Images/Screenshot 2026-02-11 at 5.13.27 PM.png",
+    "Atlas/Utilities/Images/Screenshot 2026-02-11 at 5.13.20 PM.png",
+    "Atlas/Utilities/Images/image-1.png",
+    "Atlas/Utilities/Images/image.png",
+    "Atlas/Dots/Work-Adobe",
+    "Atlas/Dots/Curated Lists/Reading",
+    "Media DB/Movies",
+    "Media DB/📚Books",
+    "Media DB/🍿series",
+    "Media DB",
+    "Atlas/Utilities/Images/Pasted image 20260111052711.png",
+    "Atlas/Utilities/Images/Screenshot 2026-01-09 at 1.17.17 AM.png",
+    "Atlas/Utilities/Images/Screenshot 2026-01-07 at 3.37.24 PM.png",
+    "Atlas/Utilities/Images/Screenshot 2026-01-07 at 3.36.23 PM.png",
+    "x/Images/CleanShot 2023-07-30 at 21.37.43.png",
+    "Atlas/Utilities/Images",
+    "Atlas/Utilities",
+    "Atlas/Dots/Curated Lists",
+    "x/Images/stay-on-target.jpg",
+    "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
+    "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
+    "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",
+    "Atlas/Utilities/Canvases/LYT W11 Calendar Canvas.canvas",
+    "Atlas/Utilities/Canvases/Obsidian Canvas MOC.canvas",
+    "Atlas/Utilities/Canvases/Ship of the Sensemaker.canvas",
+    "Atlas/Utilities/Canvases/LYT 2023 Rules.canvas",
+    "Atlas/Utilities/Canvases/LYT Book Framing.canvas",
+    "Atlas/Utilities/Canvases/LYT Nick Weekly Schedule.canvas",
+    "Atlas/Utilities/Canvases/LYT Website Ideaverse.canvas"
+  ]
+}

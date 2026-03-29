@@ -1,0 +1,55 @@
+views:
+  - type: cards
+    name: Read
+    filters:
+      and:
+        - file.inFolder("Media DB/📚Books")
+        - file.ext != "base"
+        - status == "READ"
+    order:
+      - title
+      - author
+      - My Rating
+    sort:
+      - property: Finished reading on
+        direction: DESC
+      - property: My Rating
+        direction: DESC
+    image: note.coverUrl
+    imageFit: contain
+    imageAspectRatio: 1.5
+    cardSize: 150
+  - type: cards
+    name: In Progress
+    filters:
+      and:
+        - file.inFolder("Media DB/📚Books")
+        - file.ext != "base"
+        - status == "IN-PROGRESS"
+    order:
+      - title
+      - author
+      - My Rating
+    sort:
+      - property: Finished reading on
+        direction: ASC
+      - property: My Rating
+        direction: DESC
+    image: note.coverUrl
+    imageFit: contain
+    imageAspectRatio: 1.35
+    cardSize: 160
+  - type: cards
+    name: TBR
+    filters:
+      and:
+        - file.inFolder("Media DB/📚Books")
+        - file.ext != "base"
+        - status == "TBR"
+    order:
+      - title
+      - author
+    image: note.coverUrl
+    imageFit: contain
+    imageAspectRatio: 1.5
+    cardSize: 130
