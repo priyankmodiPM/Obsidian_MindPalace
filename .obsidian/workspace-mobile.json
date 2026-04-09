@@ -44,8 +44,7 @@
               "title": "🚀Launchpad"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,11 +211,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "3eb09c218ea95622",
+  "active": "ad5fddaa3d6d5d07",
   "lastOpenFiles": [
     "Media DB/My Books Base.base",
-    "+/🚀Launchpad.md",
     "Media DB/📚Books/White Nights - Fyodor Dostoevsky.md",
+    "+/🚀Launchpad.md",
     "MindPalace/Obsidian Sync Ways.md",
     "MindPalace/Welcome test change.md",
     "README.md"
