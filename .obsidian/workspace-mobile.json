@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ad5fddaa3d6d5d07",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Media DB/My Books Base.base",
-                "viewName": "Read"
-              },
-              "icon": "lucide-layout-grid",
-              "title": "My Books Base"
-            }
-          },
-          {
             "id": "3eb09c218ea95622",
             "type": "leaf",
             "state": {
@@ -43,8 +30,19 @@
               "icon": "lucide-file",
               "title": "🚀Launchpad"
             }
+          },
+          {
+            "id": "eb173f481633ad53",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +133,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MindPalace/Welcome test change.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -211,11 +208,12 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "ad5fddaa3d6d5d07",
+  "active": "eb173f481633ad53",
   "lastOpenFiles": [
+    "+/🚀Launchpad.md",
+    "Calendar/2026-05-04.md",
     "Media DB/My Books Base.base",
     "Media DB/📚Books/White Nights - Fyodor Dostoevsky.md",
-    "+/🚀Launchpad.md",
     "MindPalace/Obsidian Sync Ways.md",
     "MindPalace/Welcome test change.md",
     "README.md"

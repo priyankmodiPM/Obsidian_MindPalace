@@ -49,6 +49,8 @@
 ## 0.2 Personal
 1. [ ] New Website + writings
 2. [ ] Devise a way to discover and document music
+3. [ ] splitwise shoja #TODO #personal
+4. [ ] 
 
 
 ## 0.3 Learning
